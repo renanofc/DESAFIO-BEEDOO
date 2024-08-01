@@ -102,4 +102,6 @@ Ao verificar a lista de cursos, um curso com campos em branco é exibido após a
 # Segue abaixo os links para as evidências de teste (MP4) e link para planilha de casos de testes.
 
 Evidências de testes: https://drive.google.com/drive/folders/1fqyFoB2IIIdXV3D7K_7p3CCA5jzf1iD_?usp=sharing
+
+
 Planilha de casos de testes: https://docs.google.com/spreadsheets/d/1TlCGgM1H68sVXKXWS-zDZMiwqsBwdPe_SZtBqWG3_20/edit?usp=sharing
